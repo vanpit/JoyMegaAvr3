@@ -2,7 +2,8 @@ JoyMegaAvr3
 
 Sega Mega Drive joypad to MSX adapter based on AVR MCU
 
-Modes:
+- Modes:
+  
 1. Default mode
 	- MD buttons A and B mapped to MSX triggers 1 and 2
 	- X and Y buttons switches autofire for trigger 1 and 2
@@ -18,7 +19,7 @@ Modes:
 3. Alternate mode Mega Drive passthrough mode
 	- Buttons passed 1:1 to MSX
 	
-4. Bill Of Materials:
+- Bill Of Materials:
 	- PCB
 	- 3D printed case - translucent PETG preffered
 	- MCU Atmega328PB-M
@@ -30,4 +31,4 @@ Modes:
 	- Resistor 470 Ohm 0805 - 2 pcs.
 	- Male and female 9 pin DE9 connectors
  
- 5. Please remember to solder 3rd 100nF capacitor between V and G pads of ISP connector as it's decoupling main MCU power.
+ - Please remember to solder 3rd 100nF capacitor between V and G pads of ISP connector as it's decoupling main MCU power.
