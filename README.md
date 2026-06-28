@@ -4,20 +4,20 @@ Sega Mega Drive joypad to MSX adapter based on AVR MCU
 
 - Modes:
   
-1. Default mode
-	- MD buttons A and B mapped to MSX triggers 1 and 2
-	- X and Y buttons switches autofire for trigger 1 and 2
-	- Z button reset both autofires
-	- MODE button switches alternate mode (clocked MSX_OUT pin) between Nyyrikki Mouse (RED), MegaDrive passthrough (BLUE) and OFF (purple)
+	1. Default mode
+		- MD buttons A and B mapped to MSX triggers 1 and 2
+		- X and Y buttons switches autofire for trigger 1 and 2
+		- Z button reset both autofires
+		- MODE button switches alternate mode (clocked MSX_OUT pin) between Nyyrikki Mouse (RED), MegaDrive passthrough (BLUE) and OFF (purple)
 
-2. Alternate mode Nyyrikki Mouse (RED)
-	- Direction button move mouse cursor
-	- Mouse buttons A, B, X, Start, Mode
-	- Mouse scroll buttons Y, Z
-	- Mouse slow motion - hold C button or 8bitdo M30 right bumper
+	2. Alternate mode Nyyrikki Mouse (RED)
+		- Direction button move mouse cursor
+		- Mouse buttons A, B, X, Start, Mode
+		- Mouse scroll buttons Y, Z
+		- Mouse slow motion - hold C button or 8bitdo M30 right bumper
 	
-3. Alternate mode Mega Drive passthrough mode
-	- Buttons passed 1:1 to MSX
+	3. Alternate mode Mega Drive passthrough mode
+		- Buttons passed 1:1 to MSX
 	
 - Bill Of Materials:
 	- PCB
