@@ -18,7 +18,7 @@ Modes:
 3. Alternate mode Mega Drive passthrough mode
 	- Buttons passed 1:1 to MSX
 	
-Bill Of Materials:
+4. Bill Of Materials:
 	- PCB
 	- 3D printed case - translucent PETG preffered
 	- MCU Atmega328PB-M
@@ -29,5 +29,5 @@ Bill Of Materials:
 	- Resistor 10 KOhm 0805 - 1 pc.
 	- Resistor 470 Ohm 0805 - 2 pcs.
 	- Male and female 9 pin DE9 connectors
-
-Please remember to solder 3rd 100nF capacitor between V and G pads of ISP connector as it's decoupling main MCU power.
+ 
+ 5. Please remember to solder 3rd 100nF capacitor between V and G pads of ISP connector as it's decoupling main MCU power.
