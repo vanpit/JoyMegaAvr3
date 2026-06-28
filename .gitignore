@@ -1,0 +1,28 @@
+# Build
+Debug/
+Release/
+x64/
+x86/
+
+# Temporary
+*.o
+*.obj
+*.elf
+*.eep
+*.map
+*.lss
+
+# Visual Studio
+.vs/
+*.VC.db
+
+# User settings
+*.user
+*.suo
+
+# Backup
+*.bak
+
+# OS
+Thumbs.db
+Desktop.ini
