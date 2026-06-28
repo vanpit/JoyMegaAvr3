@@ -32,3 +32,4 @@ Sega Mega Drive joypad to MSX adapter based on AVR MCU
 	- Male and female 9 pin DE9 connectors
  
  - Please remember to solder 3rd 100nF capacitor between V and G pads of ISP connector as it's decoupling main MCU power.
+ - AVR FUSES - default
