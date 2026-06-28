@@ -23,8 +23,8 @@ Sega Mega Drive joypad to MSX adapter based on AVR MCU
 	- PCB
 	- 3D printed case - translucent PETG prefferred
 	- MCU Atmega328PB-M
-	- LED SMD RED 0805 ex. IN-S85CS5R
-	- LED SMD BLUE 0805 ex. IN-S85CS5B
+	- D1 - LED SMD RED 0805 ex. IN-S85CS5R
+	- D2 - LED SMD BLUE 0805 ex. IN-S85CS5B
 	- Capacitors 100nF 0805 - 3 pcs.
 	- Resistors 1 KOhm 0805 - 2 pcs.
 	- Resistor 10 KOhm 0805 - 1 pc.
