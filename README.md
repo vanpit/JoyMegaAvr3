@@ -33,3 +33,4 @@ Sega Mega Drive joypad to MSX adapter based on AVR MCU
  
  - !IMPORTANT! Please remember to solder 3rd 100nF capacitor between V and G pads of ISP connector as it's decoupling main MCU power.
  - AVR fuses - default, no change needed
+ - Program ATmega329pb-m with "firmware.hex" using onboard ISP connector. Recommend using common AVR programmer like STK500v2 compatible hardware and avrdude+avrdudess software.
