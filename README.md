@@ -20,8 +20,8 @@ Sega Mega Drive joypad to MSX adapter based on AVR MCU
 		- Buttons passed 1:1 to MSX
 	
 - Bill Of Materials:
-	- PCB
-	- 3D printed case - translucent PETG prefferred
+	- PCB - use file from "Gerber" folder when ordering pcb
+	- 3D printed case - print case with included STL file - translucent PETG prefferred
 	- MCU Atmega328PB-M
 	- D1 - LED SMD RED 0805 ex. IN-S85CS5R
 	- D2 - LED SMD BLUE 0805 ex. IN-S85CS5B
@@ -31,5 +31,5 @@ Sega Mega Drive joypad to MSX adapter based on AVR MCU
 	- Resistor 470 Ohm 0805 - 2 pcs.
 	- Male and female 9 pin DE9 connectors
  
- - Please remember to solder 3rd 100nF capacitor between V and G pads of ISP connector as it's decoupling main MCU power.
- - AVR FUSES - default
+ - !IMPORTANT! Please remember to solder 3rd 100nF capacitor between V and G pads of ISP connector as it's decoupling main MCU power.
+ - AVR fuses - default, no change needed
